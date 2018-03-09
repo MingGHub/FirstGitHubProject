@@ -8,6 +8,6 @@ public class FirstPlayGitHub {
 		System.out.println("successfully1111111111111111111");
 		System.out.println("successfully2222222222222222222");
 		System.out.println("successfully3333333333333333333");
-
+		System.out.println("测试联通性");
 	}
 }
